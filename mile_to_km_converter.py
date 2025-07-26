@@ -1,5 +1,3 @@
-from tkinter import Entry
-
 from tkinter import *
 
 def miles_to_km():
